@@ -19,6 +19,7 @@ Asia
 - VLANs and 802.1Q Trunking
 - Inter-VLAN Routing
 - OSPF Dynamic Routing
+- BGP Routing
 - HSRP Gateway Redundancy
 - EtherChannel
 - Spanning Tree Protocol
